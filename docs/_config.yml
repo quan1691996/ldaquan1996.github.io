@@ -1,3 +1,7 @@
 markdown: kramdown
 theme: minima
 markdown: kramdown
+highlighter: rouge
+name: Luong Do Anh Quan
+description: My journey in learning AI
+url: "http://ldaquan1996.github.io"
